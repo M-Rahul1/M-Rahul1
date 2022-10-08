@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Rahul
 - 👀 I’m interested in Exploring things
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front-end development-React
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me mail at rahul2001ramesh@gmail.com
 - Linked in : https://www.linkedin.com/in/rahul-m-629355192/
