@@ -2,9 +2,9 @@
 <p align="center"><i>An Enthusiastic learner 😁</i></p>
 
  <p> I am a <b>passionate programmer</b> from India, who loves ...  </p>
- <p> → learning new stuff. ❤️ </p>
+ <p> → good at front-end ❤️ </p>
  <p> → solving real-world problems using emerging tech. 😎 </p>
- <p> → contributing to open-source. ( a new contributer ) ✌️ </p>
+ <p> → good grip on DSA ✌️ </p>
  
  <br/>
  
