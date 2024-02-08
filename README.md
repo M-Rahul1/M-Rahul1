@@ -1,7 +1,7 @@
 <h1 size="16px" align="center">HI 👋, I AM RAHUL </h1>
 <p align="center"><i>An Enthusiastic learner 😁</i></p>
 
- <p> I am a <b>passionate programmer</b> from India, who loves ...  </p>
+ <p> I am a <b>passionate programmer</b>, who loves ...  </p>
  <p> → good at front-end ❤️ (learing backend)</p>
  <p> → solving real-world problems using emerging tech. 😎 </p>
  <p> → good grip on DSA ✌️ </p>
